@@ -40,7 +40,7 @@ const nestedOU = [
         ]
     },
     {
-        name: 'SDLCOrganization',
+        name: 'SDLC',
         accounts: [
             {
                 name: 'Dev',
