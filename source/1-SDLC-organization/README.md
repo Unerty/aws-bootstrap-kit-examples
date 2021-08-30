@@ -246,10 +246,6 @@ In order to facilitate the management of permissions on the access to this diffe
 Staying with IAM users and groups would means not getting a central portal with a single identity and would force you to remember the different account ID and role to login into:
 
 
-
-![A diagram showing IAM sign in page versus SSO one](../../doc/sign-in-iam-vs-sso.png) 
-
-
 *Whatch this quick presentation video to learn more:*
 
 <a href="https://www.youtube.com/watch?v=_qNkFxp1Z_k" target="_blank">
