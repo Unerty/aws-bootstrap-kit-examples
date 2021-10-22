@@ -5,7 +5,7 @@
     "@aws-cdk/core:enableStackNameDuplicates": "true",
     "aws-cdk:enableDiffNoFail": "true",
     "@aws-cdk/core:stackRelativeExports": "true",
-    "github_alias": "<YOUR GITHUB ALIAS>",
+    "github_alias": "Unerty",
     "github_repo_name": "aws-bootstrap-kit-examples",
     "github_repo_branch": "main",
     "service_name": "landingpage"
